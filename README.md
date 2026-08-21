@@ -49,10 +49,3 @@ A RESTful Restaurant Management API built using Node.js, Express.js, MongoDB, an
 | PUT | `/menu/:id` | Update menu item |
 | DELETE | `/menu/:id` | Delete menu item |
 
-## Environment Variables
-
-Create a `.env` file in the project root:
-
-```env
-MONGO_URI=your_mongodb_connection_string
-PORT=10000
