@@ -236,6 +236,4 @@ Recommended order:
 
 The `.env` file is excluded from Git. Do not commit MongoDB credentials or JWT secrets.
 
-## License
 
-This project is for educational purposes.
